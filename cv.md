@@ -14,3 +14,21 @@
 * 2019 QA Introduction EPAM
 * HTML Academy (2010 - now)
 
+## Experience
+
+* [tarzania.by](http://tarzania.by)
+
+## English 
+ 
+* Upper-intermediate according to [englishpapa.by](englishpapa.by) online 
+
+## Personal skills
+
+Self-disciplined, hard-working, honest, sociable, responsible, persistent.
+
+## Contacts
+
+- Mobile: +375295856916 
+- Email: <tatyanan@tut.by>
+- Telegram: tanyusha nel
+- Discord: tanyusha.nel
