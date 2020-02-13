@@ -22,13 +22,19 @@ ul {
     padding: 10px 20px;
 }
 
-header,
-main,
-footer {
+body {}
+
+#container {
     width: 100%;
-    min-width: 600px;
+    height: 100%;
+    min-width: 1000px;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 20px auto;
+    padding: 20px 100px;
+    background-color: snow;
+    border: 1px solid gray;
+    border-radius: 30px;
+    box-shadow: 0 0 10px gray inset;
 }
 
 #intro * {
