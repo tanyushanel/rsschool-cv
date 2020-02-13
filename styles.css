@@ -1,1 +1,68 @@
+/* font */
 
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+* {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1,
+h4 {
+    text-align: center;
+}
+
+p,
+ul {
+    text-align: justify;
+    padding: 10px 20px;
+}
+
+header,
+main,
+footer {
+    width: 100%;
+    min-width: 600px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#intro * {
+    text-align: center;
+}
+
+nav ul li,
+footer ul li {
+    display: inline-block;
+    white-space: nowrap;
+    text-align: center;
+    width: 11%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+footer ul li {
+    width: 20%;
+}
+
+nav a {
+    font-style: italic;
+    color: inherit;
+}
+
+.user_photo img {
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+    width: auto;
+    height: 300px;
+}
+
+span {
+    font-style: italic;
+}
