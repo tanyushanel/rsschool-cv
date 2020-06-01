@@ -1,1 +1,1 @@
-https://tanyushanel.github.io/rsschool-cv/blob/cv
+https://tanyushanel.github.io/rsschool-cv/cv
