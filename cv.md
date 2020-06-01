@@ -1,7 +1,22 @@
-# Curriculum vitae 
 ## Nelipovich Tatsiana
 
 ![Nelipovich Tatsiana](https://sun9-59.userapi.com/c848536/v848536839/b7690/75_BmXTUylA.jpg)
+
+## Personal info
+
+- age 35
+- nationality belarussian
+- location: Grodno, Belarus
+- married
+
+## Contacts
+
+- Mobile: +375295856916 
+- Email: <tatyanan@tut.by>
+- Skype: tatyananelipovich
+- Telegram: tanyusha nel
+- Discord: tanyusha.nel
+- GitHub (https://github.com/tanyushanel)
 
 ## Summary
 
@@ -9,8 +24,8 @@
 
 ## Education
 
-* 2002-2007 Grodno State University (as a filologist)
-* 2007-2009 postGraduate GRSU (as a programmer)
+* 2002-2007 Grodno State University (bacelor's degree as a filologist)
+* 2007-2009 postGraduate GRSU (bacelor's degree as a programmer)
 * 2019 QA Introduction EPAM (certificate of QA)
 * HTML Academy (2010 - now) (account https://htmlacademy.ru/profile/id5122)
 * Codeacademy (HTML & JavaScript course) (https://www.codecademy.com/learn)
@@ -50,11 +65,3 @@
 
 * Self-disciplined, hard-working, honest, sociable, responsible, persistent.
 
-## Contacts
-
-- Mobile: +375295856916 
-- Email: <tatyanan@tut.by>
-- Skype: tatyananelipovich
-- Telegram: tanyusha nel
-- Discord: tanyusha.nel
-- GitHub (https://github.com/tanyushanel)
